@@ -10,6 +10,8 @@ Point it at a folder, breeze through tagging what to keep and what to bin, and l
 
 Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10 or 11.
 
+> **Windows may show a blue "Windows protected your PC" screen.** This is normal for small independent apps that haven't paid for a code-signing certificate — it doesn't mean anything is wrong. Click **"More info"**, then **"Run anyway"** to continue.
+
 ## What it does
 
 - 🔵 **Review** — flip through photos and videos fast, tag what you don't want with one click, undo with one more.
