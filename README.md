@@ -6,7 +6,7 @@
 
 # LinTabSort 📸
 
-A free Windows app that helps you actually get through that folder of 12,000 unsorted photos.
+A free Windows app that helps you actually get through that folder of unsorted photos.
 
 Point it at a folder, breeze through tagging what to keep and what to bin, and let LinTabSort sort the rest into a tidy, dated folder structure for you. No cloud, no account, no subscription — just a fast desktop tool that respects your files.
 
