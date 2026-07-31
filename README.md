@@ -1,3 +1,8 @@
+<img width="837" height="855" alt="{27BF85DA-68CE-4034-96FB-C4E37891F050}" src="https://github.com/user-attachments/assets/27127936-fb72-4b9a-b4aa-865a1355b6dd" />
+
+
+
+
 # LinTabSort 📸
 
 A free Windows app that helps you actually get through that folder of 12,000 unsorted photos.
