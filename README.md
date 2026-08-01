@@ -35,7 +35,7 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
 
 ## Privacy
 
-Your photos and videos never leave your computer — everything runs locally. The one exception is the Locations map, which fetches map tiles from OpenStreetMap; that reveals the general area you're browsing (never your actual photos) to that service, same as any map website.
+Your photos and videos never leave your computer — everything runs locally. Maps, historical weather, and place names are **off by default** and never turn on by themselves (Settings → Privacy). Once turned on: the Locations map fetches map tiles from OpenStreetMap; selecting a geotagged photo can look up that day's weather from Open-Meteo (free, no account); pausing on a geotagged photo or clicking the map can look up a place name from Nominatim/OpenStreetMap (free, no account). Each of these sends only the rounded location and/or date to that service — never your actual photo — same as any map website. Your photo *files* never leave the computer either way.
 
 ## Questions or feedback?
 
