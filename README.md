@@ -10,6 +10,8 @@ A free Windows app that helps you actually get through that folder of unsorted p
 
 Point it at a folder, breeze through tagging what to keep and what to bin, and let LinTabSort sort the rest into a tidy, dated folder structure for you. No cloud, no account, no subscription — just a fast desktop tool that respects your files.
 
+I built this for my own photo library, because I wanted a tool that was capable but simple, with no subscription attached.
+
 ## Get it
 
 **[⬇ Download the latest version](../../releases/latest)**
@@ -25,12 +27,12 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
 - 🟢 **Sorting** — automatically files everything into dated folders, using the photo's real capture date so it's actually accurate.
 - 🟣 **Find Duplicates** — hunts down exact duplicate photos and videos across folders, even renamed or moved ones, so you can clear the clutter with confidence.
 - 🟦 **Locations** — an interactive map of where your photos were taken, clustered so it's easy to browse, with optional place names and the option to see every location you've ever cached, not just the current folder.
-- **Timeline** — a year-by-year sidebar to jump straight to any month or folder while reviewing.
-- **Photo info** — date, camera, and shooting details at a glance for whatever you're looking at.
-- **Phone import** — plug in an Android phone and copy your photos over. LinTabSort only ever *reads* from your phone — nothing on it is ever touched, moved, or deleted.
-- **Video playback** — play, pause, change speed, grab a still frame, right in the app.
-- **Photo filters and adjustments** — visual filters plus exposure/contrast/shadows/highlights, previewed live and saved without ever touching your original file.
-- **Pin to second screen** — pop a photo out onto another monitor while you keep browsing, with an optional auto-advancing slideshow.
+- 🗓️ **Timeline** — a year-by-year sidebar to jump straight to any month or folder while reviewing.
+- ℹ️ **Photo info** — date, camera, and shooting details at a glance for whatever you're looking at.
+- 📱 **Phone import** — plug in an Android phone and copy your photos over. LinTabSort only ever *reads* from your phone — nothing on it is ever touched, moved, or deleted.
+- ▶️ **Video playback** — play, pause, change speed, grab a still frame, right in the app.
+- 🎨 **Photo filters and adjustments** — visual filters plus exposure/contrast/shadows/highlights, previewed live and saved without ever touching your original file.
+- 🖥️ **Pin to second screen** — pop a photo out onto another monitor while you keep browsing, with an optional auto-advancing slideshow.
 - 🐸 **Busy frogs** — long operations get a swarm of hopping frogs instead of a boring spinner. Yes, really. You can turn it off if you're no fun.
 
 ## Privacy
