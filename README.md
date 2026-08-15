@@ -25,7 +25,8 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
 - 🔵 **Review** — flip through photos and videos fast, tag what you don't want with one click, undo with one more.
 - 🩷 **Final Review** — a last safety check before anything is deleted, plus a one-click "I regret everything" undo.
 - 🟢 **Sorting** — automatically files everything into dated folders, using the photo's real capture date so it's actually accurate.
-- 🟣 **Find Duplicates** — hunts down exact duplicate photos and videos across folders, even renamed or moved ones, so you can clear the clutter with confidence.
+- 🟣 **Find Duplicates** — hunts down exact duplicate photos and videos across folders, even renamed or moved ones, so you can clear the clutter with confidence. A status card shows every folder's review progress at a glance, so you always know what's left.
+- 🤖 **AI photo tagging** *(optional, off by default)* — tags your photos (car, tree, sea, dog, and more) and writes short natural-language descriptions using a vision AI model that runs entirely on your own computer or home network via free, open-source [Ollama](https://ollama.com) — never a cloud service, and your photos are never sent anywhere outside a machine you control. Tag words become a searchable filter; descriptions show right in the photo viewer.
 - 🟦 **Locations** — an interactive map of where your photos were taken, clustered so it's easy to browse, with optional place names and the option to see every location you've ever cached, not just the current folder.
 - 🗓️ **Timeline** — a year-by-year sidebar to jump straight to any month or folder while reviewing.
 - ℹ️ **Photo info** — date, camera, and shooting details at a glance for whatever you're looking at.
@@ -37,7 +38,7 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
 
 ## Privacy
 
-Your photos and videos never leave your computer — everything runs locally. Maps, historical weather, and place names are **off by default** and never turn on by themselves (Settings → Privacy). Once turned on: the Locations map fetches map tiles from OpenStreetMap; selecting a geotagged photo can look up that day's weather from Open-Meteo (free, no account); pausing on a geotagged photo or clicking the map can look up a place name from Nominatim/OpenStreetMap (free, no account). Each of these sends only the rounded location and/or date to that service — never your actual photo — same as any map website. Your photo *files* never leave the computer either way.
+By default, your photos and videos never leave your computer — everything runs locally. The one exception is AI photo tagging, which is **off by default** and, when you turn it on, only ever sends photo bytes to an Ollama address you type in yourself — your own computer by default, or another machine on your own home network. It never talks to any cloud AI service. Maps, historical weather, and place names are also **off by default** and never turn on by themselves (Settings → Privacy). Once turned on: the Locations map fetches map tiles from OpenStreetMap; selecting a geotagged photo can look up that day's weather from Open-Meteo (free, no account); pausing on a geotagged photo or clicking the map can look up a place name from Nominatim/OpenStreetMap (free, no account). Each of these sends only the rounded location and/or date to that service — never your actual photo — same as any map website. Your photo *files* never leave the computer either way.
 
 ## Questions or feedback?
 
