@@ -32,7 +32,7 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
 - ℹ️ **Photo info** — date, camera, and shooting details at a glance for whatever you're looking at.
 - 📱 **Phone import** — plug in an Android phone and copy your photos over. LinTabSort only ever *reads* from your phone — nothing on it is ever touched, moved, or deleted.
 - ▶️ **Video playback** — play, pause, change speed, grab a still frame, right in the app.
-- 🎨 **Photo filters and adjustments** — visual filters plus exposure/contrast/shadows/highlights, previewed live and saved without ever touching your original file.
+- 🎨 **Photo filters and adjustments** — dozens of filters from classic effects to real image-processing techniques like CLAHE (auto contrast), Retinex (dehazing), and a Voronoi mosaic stained-glass look, plus exposure/contrast/shadows/highlights — all previewed live and saved without ever touching your original file.
 - 🪄 **AI photo restoration** *(downloads a small model on first use, then fully offline)* — upscale, denoise, or colorize any photo right in the viewer, each powered by a small AI model that downloads once and then runs completely on your own computer. Your photos are never sent anywhere, at any time.
 - 🖥️ **Pin to second screen** — pop a photo out onto another monitor while you keep browsing, with an optional auto-advancing slideshow.
 - 🐸 **Busy frogs** — long operations get a swarm of hopping frogs instead of a boring spinner. Yes, really. You can turn it off if you're no fun.
