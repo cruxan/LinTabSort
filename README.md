@@ -8,7 +8,7 @@
 
 A free Windows app that helps you actually get through that folder of unsorted photos.
 
-Point it at a folder, breeze through tagging what to keep and what to bin, and let LinTabSort sort the rest into a tidy, dated folder structure for you. No cloud, no account, no subscription — just a fast desktop tool that respects your files.
+Point it at a folder, breeze through tagging what to keep and what to bin, and let LinTabSort sort the rest into a tidy, dated folder structure for you. **No cloud, no account, no subscription — your photos never leave your computer.**
 
 I built this for my own photo library, because I wanted a tool that was capable but simple, with no subscription attached.
 
@@ -33,7 +33,7 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
 - 📱 **Phone import** — plug in an Android phone and copy your photos over. LinTabSort only ever *reads* from your phone — nothing on it is ever touched, moved, or deleted.
 - ▶️ **Video playback** — play, pause, change speed, grab a still frame, right in the app.
 - 🎨 **Photo filters and adjustments** — dozens of filters from classic effects to real image-processing techniques like CLAHE (auto contrast), Retinex (dehazing), and a Voronoi mosaic stained-glass look, plus exposure/contrast/shadows/highlights — all previewed live and saved without ever touching your original file.
-- 🪄 **AI photo restoration & object removal** *(downloads a small model on first use, then fully offline)* — upscale, denoise, colorize, or erase an unwanted object right in the viewer (draw a box around it, one click to remove), each powered by a small AI model that downloads once and then runs completely on your own computer. Your photos are never sent anywhere, at any time.
+- 🪄 **AI photo restoration & object removal** *(downloads a small model on first use, then fully offline)* — upscale, denoise, colorize, or erase an unwanted object right in the viewer (draw a box around it, one click to remove), each powered by a small AI model that downloads once and then runs completely on your own computer. **Your photos are never sent anywhere, at any time.**
 - 🕰️ **Full edit history with one-click undo** — every filter, adjustment, restoration, and object removal you apply is remembered as its own step; a small thumbnail strip lets you jump back to any earlier point, discarding just the edits after it.
 - 🖥️ **Pin to second screen** — pop a photo out onto another monitor while you keep browsing, with an optional auto-advancing slideshow.
 - 🐸 **Busy frogs** — long operations get a swarm of hopping frogs instead of a boring spinner. Yes, really. You can turn it off if you're no fun.
