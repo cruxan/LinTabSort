@@ -50,6 +50,7 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
 - 🕰️ **Full edit history with one-click undo** — every filter, adjustment, restoration, and object removal you apply is remembered as its own step, in a free-floating, resizable window. Jump back to any earlier point, or remove just one step from the middle and keep the rest.
 - 🖥️ **Pin to second screen** — pop a photo out onto another monitor while you keep browsing, with an optional auto-advancing slideshow.
 - 🐸 **Busy frogs** — long operations get a swarm of hopping frogs instead of a boring spinner. Yes, really. You can turn it off if you're no fun.
+- 🐸 **Frog guide** — in the face-tagging window, a small frog hops beside whichever face you're naming and moves on with you. Toggle with the checkbox next to Ignore/Done.
 
 ## Privacy
 
