@@ -49,7 +49,7 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
 - 🔎 **Objects filter** — scans the photos you've currently got loaded and builds a menu of what's actually in them (people, animals, vehicles, and more), so you can filter down to "photos with a cat" in one click. Off by default, and results are saved and deletable per folder — same privacy model as People. A fun bonus feature, not a precise one: it can occasionally mix up a similar-looking object.
 - 🕰️ **Full edit history with one-click undo** — every filter, adjustment, restoration, and object removal you apply is remembered as its own step, in a free-floating, resizable window. Jump back to any earlier point, or remove just one step from the middle and keep the rest.
 - 🖥️ **Pin to second screen** — pop a photo out onto another monitor while you keep browsing, with an optional auto-advancing slideshow.
-- 🐸 **Busy frogs** — long operations get a swarm of hopping frogs instead of a boring spinner. Yes, really. You can turn it off if you're no fun.
+- 🐸 **Busy frogs** — long operations get a swarm of hopping frogs instead of a boring spinner. Yes, really. Pick one of eight built-in colour sheets (or upload your own transparent PNG) in Settings. You can turn it off if you're no fun.
 - 🐸 **Frog guide** — in the face-tagging window, a small frog hops beside whichever face you're naming and moves on with you. Toggle with the checkbox next to Ignore/Done.
 
 ## Privacy
