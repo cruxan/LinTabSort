@@ -44,6 +44,16 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
 - 📱 **Phone import** — plug in an Android phone and copy your photos over. LinTabSort only ever *reads* from your phone — nothing on it is ever touched, moved, or deleted.
 - ▶️ **Video playback** — play, pause, change speed, grab a still frame, right in the app.
 - 🎨 **Photo filters and adjustments** — dozens of filters from classic effects to real image-processing techniques like CLAHE (auto contrast), Retinex (dehazing), a Vector filter (clean, simplified vector-style regions for a posterized look), a Voronoi mosaic stained-glass look, a Poincaré hyperbolic-disk warp, a retro-computer palette with dithering (Amiga, Game Boy, NES and more), and a Droste spiral, plus exposure/contrast/shadows/highlights — all previewed live and saved without ever touching your original file.
+  The filters, in 9 groups (star one to keep it under Favorites):
+  - **Depth tools:** Dual filter, Focus, Depth map, Cutout
+  - **Fix & enhance:** Inpaint, Remove pattern, CLAHE, Retinex, Sharpen, Guided detail, Wavelet detail
+  - **Color & tone:** Color grade, Grayscale, Sepia, Invert, Duotone, Posterize, X-Ray, Night vision, Gradient heatmap
+  - **Warp & geometry:** Ripple, Swirl, Fisheye, Pinch, Bulge, Mirror, Kaleidoscope, Möbius warp, Tiny planet, Droste spiral, Poincaré disk, Perspective skew
+  - **Camera & lens:** Bokeh, Motion blur, Lens flare, God rays, Bloom, Vignette, Grain, Polaroid, Disposable camera, Light leak
+  - **Glitch & retro:** CRT, Scanlines, RGB split, Datamosh, DVD compression, JPEG hell, Retro palette
+  - **Pixels & print:** Pixelate, Halftone, Dither, Palette quantize, ASCII
+  - **Paint & draw:** Watercolor, Painterly flow, Stained glass, Voronoi mosaic, Neon edges, Style transfer, Comic book, Sketch, Ink lines, Emboss, Edge detect, Vector filter
+  - **Builders:** QR code art, Cross-stitch pattern, Carving guide, Depth Diorama
 - 🪄 **AI photo restoration & object removal** *(downloads a small model on first use, then fully offline)* — upscale, denoise, colorize, or erase an unwanted object right in the viewer, either by drawing a box around it yourself or letting "Poof!" find every object in the photo automatically — click one and it's gone. Each powered by a small AI model that downloads once and then runs completely on your own computer. **Your photos are never sent anywhere, at any time.**
 - 🕰️ **Full edit history with one-click undo** — every filter, adjustment, restoration, and object removal you apply is remembered as its own step, in a free-floating, resizable window. Jump back to any earlier point, or remove just one step from the middle and keep the rest.
 - 🖥️ **Pin to second screen** — pop a photo out onto another monitor while you keep browsing, with an optional auto-advancing slideshow.
@@ -61,3 +71,4 @@ Some AI features can optionally use your graphics card (GPU) instead of the CPU,
 **Mikael Lindmark** — [lindmark.mikael@gmail.com](mailto:lindmark.mikael@gmail.com)
 
 If LinTabSort saved you an afternoon of folder chaos, a [Ko-fi](https://ko-fi.com/lintabcrux) tip is always appreciated. ☕
+
