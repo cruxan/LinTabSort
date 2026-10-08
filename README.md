@@ -47,9 +47,9 @@ Grab `LinTabSort.exe` and run it — no installer, nothing to set up. Windows 10
   The filters, in 9 groups (star one to keep it under Favorites):
   - **Depth tools:** Dual filter, Focus, Depth map, Cutout
   - **Fix & enhance:** Inpaint, Remove pattern, CLAHE, Retinex, Sharpen, Guided detail, Wavelet detail
-  - **Color & tone:** Color grade, Grayscale, Sepia, Invert, Duotone, Posterize, X-Ray, Night vision, Gradient heatmap
+  - **Color & tone:** Color grade, Grayscale, Sepia, Invert, Duotone, Posterize, X-Ray, Night vision, Gradient heatmap, Thermal camera
   - **Warp & geometry:** Ripple, Swirl, Fisheye, Pinch, Bulge, Mirror, Kaleidoscope, Möbius warp, Tiny planet, Droste spiral, Poincaré disk, Perspective skew
-  - **Camera & lens:** Bokeh, Motion blur, Lens flare, God rays, Bloom, Vignette, Grain, Polaroid, Disposable camera, Light leak
+  - **Camera & lens:** Bokeh, Motion blur, Lens flare, God rays, Bloom, Vignette, Grain, Polaroid, Disposable camera, Light leak, Relight, Fog, Smoke, Smoke from subject, Disintegrate, Shatter, Peel
   - **Glitch & retro:** CRT, Scanlines, RGB split, Datamosh, DVD compression, JPEG hell, Retro palette
   - **Pixels & print:** Pixelate, Halftone, Dither, Palette quantize, ASCII
   - **Paint & draw:** Watercolor, Painterly flow, Stained glass, Voronoi mosaic, Neon edges, Style transfer, Comic book, Sketch, Ink lines, Emboss, Edge detect, Vector filter
